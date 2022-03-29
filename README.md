@@ -1,6 +1,6 @@
 # Zomato-Web-Scraper
 
-Scrapes data from top restuarants of different cities listed in Zomato and data regarding them, mainly :
+Scrapes data from top restuarants of different cities listed in Zomato, mainly:
 
 1. 'ID'   : Unique ID of the restuarant
 2. 'Name'  : Name of the restuarant
@@ -24,4 +24,4 @@ Scrapes data from top restuarants of different cities listed in Zomato and data 
 https://datascienceplus.com/zomato-web-scraping-with-beautifulsoup-in-python/
 https://github.com/nikitperiwal/Zomato-Scraper
 
-Thanks for reading! :) 
+Thanks for reading! Also, any suggestion to improve this repo is extremely welcome :) 
