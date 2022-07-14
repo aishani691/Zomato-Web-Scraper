@@ -25,3 +25,7 @@ https://datascienceplus.com/zomato-web-scraping-with-beautifulsoup-in-python/
 https://github.com/nikitperiwal/Zomato-Scraper
 
 Thanks for reading! Also, any suggestion to improve this repo is extremely welcome :) 
+
+# Further work:
+- Build a more generic scraper
+- Can we optimise the process using selenium
